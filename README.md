@@ -1,7 +1,7 @@
 <h1 align="center">Hi Developer👋🏻, I'm Niha Farheen </h1>
 
- An Undergrad Computer Science Engineering student currently in my Third year. I am interested in Full Stack Web Development. Apart from Coding, you can see me Designing,host events and Podcast at times 😊.
-
+ An Undergrad Computer Science Engineering student currently in my Third year. I am interested in Full Stack Web Development. Apart from Coding, you can see me Designing,host events and Podcast at times 😊.<br><br>
+<img src="https://komarev.com/ghpvc/?username=nihafarheen" alt="nihafarheen" />
 ## 📬 Get in touch
 
 - LinkedIn: [linkedin.com/in/niha-farheen][1]
