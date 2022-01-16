@@ -5,7 +5,7 @@
 ## 📬 Get in touch
 
 - LinkedIn: [linkedin.com/in/niha-farheen][1]
-- Twitter:[twitter.com/nihafarheen][2]
+- Twitter: [twitter.com/nihafarheen][2]
 
 ## About me
 
