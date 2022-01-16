@@ -1,17 +1,16 @@
 <h1 align="center">Hi Developer👋🏻, I'm Niha Farheen </h1>
 
- An Undergrad Computer Science Engineering student currently in my final year. I am interested in Full Stack Web Development. Apart from Coding, you can see me Designing,host events and Podcast at times 😊.<br><br>
+ A Computer Science Engineering student. I am interested in Full Stack Web Development. Apart from Coding, you can see me Designing,host events and Podcast at times 😊.<br><br>
 <img src="https://komarev.com/ghpvc/?username=nihafarheen" alt="nihafarheen" />
 ## 📬 Get in touch
 
 - LinkedIn: [linkedin.com/in/niha-farheen][1]
-- Instagram:[instagram.com/niha.farheeen][2]
+- Twitter:[twitter.com/nihafarheen][2]
 
 ## About me
 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love Coding but hate it at the same time :P
-- 🔭 I’m currently working on my website that is curated specially for Home-Makers.
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -20,4 +19,3 @@
 </a>
 
 [1]:https://www.linkedin.com/in/niha-farheen/
-[2]:https://www.instagram.com/niha.farheeen/
